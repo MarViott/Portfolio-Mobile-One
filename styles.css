@@ -1,7 +1,6 @@
-container {
-  height: 20px;
-  width: 76px;
-  left: 12px;
-  top: 10px;
-  border-radius: nullpx;
+nav {
+    height: 44px;
+    width: 375px;
+    left: 0px;
+    top: 0px;
 }
